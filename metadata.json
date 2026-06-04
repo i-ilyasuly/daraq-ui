@@ -1,0 +1,6 @@
+{
+  "name": "Daraq",
+  "description": "Minimalist Islamic chat assistant interface focusing on Hanafi fiqh applications.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
